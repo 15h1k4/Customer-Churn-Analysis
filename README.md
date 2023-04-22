@@ -10,9 +10,7 @@ Further investigation found that yearlong contract holders were less likely to c
 
 **Result:** Based on analysis, we discovered that particular elements including contract length, internet service provider, form of payment, and services used are very important in determining customer churn. Company should think about providing incentives for customers to sign longer-term contracts, lowering the price of fiber-optic internet, providing more practical payment options, and highlighting the advantages of services like online backup, device protection plans, tech support plans, and online security. Enhancing the standard of technical support can also aid in lowering churn.
 
-Checkout the project: https://app.powerbi.com/view?r=eyJrIjoiZmI2ZjU3ODctNGMxZS00NTY3LWIwNGMtMGU4NTEzZDljMGE1IiwidCI6ImU4NzFhNmExLTUxNzItNGI5ZS1hODNmLTk4NDI2MGIxNTBlYiJ9
-
-
+Checkout the project: https://app.powerbi.com/view?r=eyJrIjoiODZhMGM5NWItYmFlOS00ZGJkLWIxMmMtMGIyOWFiMTRjYjA4IiwidCI6ImU4NzFhNmExLTUxNzItNGI5ZS1hODNmLTk4NDI2MGIxNTBlYiJ9
 
 
 
